@@ -999,8 +999,8 @@ val `youreGoodAtThis` = new I18nKey("learn:youreGoodAtThis")
 val `nailedIt` = new I18nKey("learn:nailedIt")
 val `rightOn` = new I18nKey("learn:rightOn")
 val `stageXComplete` = new I18nKey("learn:stageXComplete")
-val `yourScore` = new I18nKey("learn:yourScore")
 val `next` = new I18nKey("learn:next")
+val `nextX` = new I18nKey("learn:nextX")
 val `backToMenu` = new I18nKey("learn:backToMenu")
 val `puzzleFailed` = new I18nKey("learn:puzzleFailed")
 val `retry` = new I18nKey("learn:retry")
@@ -1626,6 +1626,7 @@ val `snapArrowsToValidMoves` = new I18nKey("preferences:snapArrowsToValidMoves")
 val `sayGgWpAfterLosingOrDrawing` = new I18nKey("preferences:sayGgWpAfterLosingOrDrawing")
 val `yourPreferencesHaveBeenSaved` = new I18nKey("preferences:yourPreferencesHaveBeenSaved")
 val `scrollOnTheBoardToReplayMoves` = new I18nKey("preferences:scrollOnTheBoardToReplayMoves")
+val `correspondenceEmailNotification` = new I18nKey("preferences:correspondenceEmailNotification")
 
 }
 
